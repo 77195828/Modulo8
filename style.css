@@ -1,0 +1,8 @@
+h1{
+    color: hsl(150, 81%, 50%);
+  font-size: 30px;
+    }
+    p{
+      color: hwb(236 3% 35%);
+      font-family: 'Times New Roman', Times, serif;
+    }
